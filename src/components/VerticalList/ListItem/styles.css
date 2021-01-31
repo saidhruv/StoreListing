@@ -1,0 +1,131 @@
+.verticalListContainer {
+  display: flex;
+  flex-direction: row;
+  margin: 16px 16px 0 16px;
+  padding: 0 0 16px 0;
+  border-bottom: solid 1px #e6e6e6;
+}
+
+.verticalListContainer:last-child {
+  border-bottom: 0;
+}
+
+.verticalListImageContainer {
+  position: relative;
+}
+
+.verticalListOffer {
+  border-radius: 4px;
+  background-color: #ee741f;
+  font-size: 12px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  color: white;
+  position: absolute;
+  bottom: -8px;
+  width: 68px;
+  height: 22px;
+  left: 14px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+.verticalListItemContent {
+  margin: 0 0 0 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+}
+
+.verticalListItemTitle {
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.29;
+  letter-spacing: normal;
+  margin: 0 0 6px 0;
+  font-family: GalanoGrotesqueMedium;
+}
+
+.unit {
+  font-size: 12px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  margin: 0 0 12px 0;
+}
+
+.priceAndActionContainer, .priceContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.priceAndActionContainer {
+  justify-content: space-between;
+}
+
+.price {
+  font-size: 15px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.47;
+  letter-spacing: normal;
+  font-family: GalanoGrotesqueMedium;
+}
+
+.actualPrice {
+  margin: 0 0 0 6px;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  color: #808080;
+  text-decoration: line-through;
+}
+
+.addButton {
+  width: 73px;
+  height: 28px;
+  border-radius: 4px;
+  border: solid 1px #146eb4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.86;
+  letter-spacing: normal;
+  text-align: center;
+  color: #146eb4;
+  font-family: GalanoGrotesqueMedium;
+}
+
+.addButtonPlus {
+  margin: 0 0 0 6px;
+  fill: #146eb4;
+}
+
+.outOfStock {
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  color: #e50b20;
+  font-family: GalanoGrotesqueMedium;
+}

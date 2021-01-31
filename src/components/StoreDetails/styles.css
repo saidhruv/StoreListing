@@ -1,0 +1,92 @@
+.pageFooterContainer {
+  background-color: #1a181e;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.upsellContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 22px 0px 16px 0px;
+  width: 90%;
+  justify-content: space-around;
+  border-bottom: solid 1px #d9d9d9;
+}
+
+.upsellItem {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 72px;
+}
+
+.upsellText {
+  font-size: 12px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: center;
+}
+
+.upsellTextSub {
+  font-size: 10px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: center;
+}
+
+.storeDetailsContainer {
+  margin: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.storeDetailsContainerTitle {
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.29;
+  letter-spacing: normal;
+}
+
+.storeDetailsTitle {
+  margin: 12px 0 0 0;
+  font-family: GalanoGrotesqueMedium;
+  font-size: 15px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: center;
+}
+
+.storeDetailsAddress {
+  margin: 0 32px;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  text-align: center;
+}
+
+.chatWithUs {
+  margin: 12px 0 24px 0;
+  padding-bottom: 58px;
+}

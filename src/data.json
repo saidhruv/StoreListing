@@ -1,0 +1,258 @@
+{
+  "partnerName": "RS Juice & Fast Food",
+  "addressLine1": "#1234, Toto's Road,",
+  "addressLine2": "JP Nagar, Bangalore 560012, India",
+  "verifiedSeller": true,
+  "logo": "https://picsum.photos/200?random=2",
+  "listing": [
+    {
+      "categoryHeader": "Bestsellers",
+      "categoryListing": [
+        {
+      "title": "Sandwichs",
+      "image": "https://picsum.photos/200?random=2234"
+    },
+    {
+      "title": "Burgers",
+      "image": "https://picsum.photos/200?random=23"
+    },
+    {
+      "title": "Maggie",
+      "image": "https://picsum.photos/200?random=24"
+    },
+    {
+      "title": "Cake",
+      "image": "https://picsum.photos/200?random=25"
+    },
+    {
+      "title": "Pasta",
+      "image": "https://picsum.photos/200?random=26"
+    },
+    {
+      "title": "Shake",
+      "image": "https://picsum.photos/200?random=267"
+    }
+      ]
+    },
+    {
+      "categoryHeader": "Sandwiches",
+      "categoryListing": [
+        {
+          "name": "Sweet Corn Grilled Sandwich (2 Pieces)",
+          "image": "https://picsum.photos/200?random=27",
+          "unit": "per unit",
+          "pricePerUnit": 30.00,
+          "actualPricePerUnit": 40.00,
+          "isAvailable": true,
+          "offer": "₹10 OFF"
+        },
+        {
+          "name": "Veg Grilled Sandwich (2 Pieces)",
+          "image": "https://picsum.photos/200?random=28",
+          "unit": "per unit",
+          "pricePerUnit": 30.00,
+          "isAvailable": true,
+          "offer": ""
+        },
+        {
+          "name": "Paneer Grilled Sandwich (2 Pieces)",
+          "image": "https://picsum.photos/200?random=29",
+          "unit": "per unit",
+          "pricePerUnit": 60.00,
+          "isAvailable": true,
+          "offer": ""
+        },
+        {
+          "name": "Cheese Grilled Sandwich (2 Pieces)",
+          "image": "https://picsum.photos/200?random=291",
+          "unit": "per unit",
+          "pricePerUnit": 45.00,
+          "isAvailable": true,
+          "offer": ""
+        },
+        {
+          "name": "Maggie Grilled Sandwich (2 Pieces)",
+          "image": "https://picsum.photos/200?random=292",
+          "unit": "per unit",
+          "pricePerUnit": 40.00,
+          "isAvailable": true,
+          "offer": ""
+        }
+      ]
+    },
+    {
+      "categoryHeader": "Burgers",
+      "categoryListing": [
+        {
+          "name": "Grilled Cheese Burger",
+          "image": "https://picsum.photos/200?random=293",
+          "unit": "per unit",
+          "pricePerUnit": 70.00,
+          "isAvailable": false,
+          "offer": ""
+        },
+        {
+          "name": "Veg Burger",
+          "image": "https://picsum.photos/200?random=294",
+          "unit": "per unit",
+          "pricePerUnit": 60.00,
+          "isAvailable": true,
+          "offer": ""
+        },
+        {
+          "name": "Aloo Tikki Burger",
+          "image": "https://picsum.photos/200?random=295",
+          "unit": "per unit",
+          "pricePerUnit": 60.00,
+          "isAvailable": true,
+          "offer": ""
+        }
+      ]
+    },
+    {
+      "categoryHeader": "Maggie",
+      "categoryListing": [
+        {
+          "name": "Tadaka Maggie",
+          "image": "https://picsum.photos/200?random=296",
+          "unit": "per unit",
+          "pricePerUnit": 40.00,
+          "isAvailable": true,
+          "offer": ""
+        },
+        {
+          "name": "Plain Maggie",
+          "image": "https://picsum.photos/200?random=297",
+          "unit": "per unit",
+          "pricePerUnit": 30.00,
+          "isAvailable": true,
+          "offer": ""
+        },
+        {
+          "name": "Cheese Maggie",
+          "image": "https://picsum.photos/200?random=298",
+          "unit": "per unit",
+          "pricePerUnit": 60.00,
+          "isAvailable": true,
+          "offer": ""
+        }
+      ]
+    },
+    {
+      "categoryHeader": "Pasta",
+      "categoryListing": [
+        {
+          "name": "White Sauce Pasta",
+          "image": "https://picsum.photos/200?random=299",
+          "unit": "per unit",
+          "pricePerUnit": 70.00,
+          "isAvailable": true,
+          "offer": ""
+        },
+        {
+          "name": "Red Sauce Pasta",
+          "image": "https://picsum.photos/200?random=2991",
+          "unit": "per unit",
+          "pricePerUnit": 80.00,
+          "isAvailable": true,
+          "offer": ""
+        }
+      ]
+    },
+    {
+      "categoryHeader": "Cake",
+      "categoryListing": [
+        {
+          "name": "Chocolate Cake",
+          "image": "https://picsum.photos/200?random=2992",
+          "unit": "per unit",
+          "pricePerUnit": 30.00,
+          "isAvailable": true,
+          "offer": ""
+        },
+        {
+          "name": "Brownie",
+          "image": "https://picsum.photos/200?random=2993",
+          "unit": "per unit",
+          "pricePerUnit": 40.00,
+          "isAvailable": true,
+          "offer": ""
+        },
+        {
+          "name": "Cheese Cake",
+          "image": "https://picsum.photos/200?random=2994",
+          "unit": "per unit",
+          "pricePerUnit": 60.00,
+          "isAvailable": true,
+          "offer": ""
+        }
+      ]
+    },
+    {
+      "categoryHeader": "Shakes",
+      "categoryListing": [
+        {
+          "name": "Vanilla Shake",
+          "image": "https://picsum.photos/200?random=2995",
+          "unit": "per unit",
+          "pricePerUnit": 40.00,
+          "isAvailable": true,
+          "offer": ""
+        },
+        {
+          "name": "Chocolate Shake",
+          "image": "https://picsum.photos/200?random=2996",
+          "unit": "per unit",
+          "pricePerUnit": 60.00,
+          "isAvailable": true,
+          "offer": ""
+        },
+        {
+          "name": "Dry Fruit Shake",
+          "image": "https://picsum.photos/200?random=2997",
+          "unit": "per unit",
+          "pricePerUnit": 70.00,
+          "isAvailable": true,
+          "offer": ""
+        },
+        {
+          "name": "Strawberry Shake",
+          "image": "https://picsum.photos/200?random=2998",
+          "unit": "per unit",
+          "pricePerUnit": 50.00,
+          "isAvailable": true,
+          "offer": ""
+        }
+      ]
+    },
+    {
+      "categoryHeader": "Juices",
+      "categoryListing": [
+        {
+          "name": "Mango Juice",
+          "image": "https://picsum.photos/200?random=2999",
+          "unit": "per unit",
+          "pricePerUnit": 40.00,
+          "isAvailable": true,
+          "offer": ""
+        },
+        {
+          "name": "Pineapple Juice",
+          "image": "https://picsum.photos/200?random=29991",
+          "unit": "per unit",
+          "pricePerUnit": 40.00,
+          "isAvailable": true,
+          "offer": ""
+        },
+        {
+          "name": "Orange Juice",
+          "image": "https://picsum.photos/200?random=29992",
+          "unit": "per unit",
+          "pricePerUnit": 30.00,
+          "isAvailable": true,
+          "offer": "BOGO"
+        }
+      ]
+    }
+  ]
+}
